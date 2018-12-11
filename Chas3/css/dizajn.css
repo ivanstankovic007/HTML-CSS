@@ -1,0 +1,32 @@
+body{
+    background: #b3d1ff
+}
+
+
+
+h1 {background: yellow
+}
+
+.paraf {
+    color: green
+}
+
+#sec {
+    border: 5px dotted blue
+}
+
+input[type="text"] {
+    border: 3px solid red;
+    width: 200px;
+}
+
+input[type="submit"] {
+    background: #bfbfbf;
+    border: solid
+    
+}
+
+textarea{
+    background: #bfbfbf;
+    border: 2px solid blue;
+}
